@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\bin\Debug\lab1Ex2.exe.config
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\bin\Debug\lab1Ex2.exe
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\bin\Debug\lab1Ex2.pdb
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.Form1.resources
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.Properties.Resources.resources
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.exe
+C:\Users\User\Desktop\lab1Ex2\lab1Ex2\obj\Debug\lab1Ex2.pdb
