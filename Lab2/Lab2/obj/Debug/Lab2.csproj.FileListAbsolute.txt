@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\User\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\User\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\User\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\labs Gulzada\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\labs Gulzada\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\labs Gulzada\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\labs Gulzada\Lab2\Lab2\obj\Debug\Lab2.pdb
